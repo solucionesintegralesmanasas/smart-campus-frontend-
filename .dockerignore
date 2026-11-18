@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+npm-debug.log*
+.git
+.gitignore
+.env.local
+.vscode
+*.md
+*.zip
+url del proyecto depleado.txt
+
